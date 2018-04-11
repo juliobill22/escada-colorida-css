@@ -1,0 +1,21 @@
+# escada-colorida-css 
+# Escada colorida que ao clicar no degrau, ele escapa da regra de se escada.
+"# botao-arrastar-soltar-css" 
+"# escada-colorida-css" 
+"# escada-colorida-css" 
+"# escada-colorida-css" 
+"# escada-colorida-css" 
+# escada-colorida-css
+"# escada-colorida-css" 
+"# escada-colorida-css" 
+"# escada-colorida-css" 
+"# escada-colorida-css" 
+"# escada-colorida-css" 
+"# escada-colorida-css" 
+"# escada-colorida-css" 
+"# escada-colorida-css" 
+"# escada-colorida-css" 
+"# escada-colorida-css" 
+"# escada-colorida-css" 
+"# escada-colorida-css" 
+"# escada-colorida-css" 
